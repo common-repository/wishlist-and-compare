@@ -1,0 +1,950 @@
+# Copyright (C) 2024 ThemeHigh
+# This file is distributed under the same license as the Wishlist and Compare for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wishlist and Compare for WooCommerce 1.3.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wishlist-and-compare\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-17T19:57:09+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: wishlist-and-compare\n"
+
+#. Plugin Name of the plugin
+msgid "Wishlist and Compare for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.themehigh.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add wishlist and compare features to your woocommerce website."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeHigh"
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-pages.php:44
+msgid "Wishlist-Comparison"
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-pages.php:46
+#: templates/thwwac-compare.php:6
+#: templates/thwwac-wishlist.php:6
+msgid "Wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-pages.php:48
+#: templates/thwwac-compare.php:8
+#: templates/thwwac-wishlist.php:8
+msgid "Comparison"
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-settings.php:631
+msgid "We would love to hear about your recent experience."
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-settings.php:632
+msgid "We are eager to know how did Wishlist and Compare for WooCommerce plugin helped you work better. Share with us your valuable feedback and reviews and help us bring the best for you."
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-settings.php:635
+msgid "Yes, today"
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-settings.php:639
+msgid "Already, Did"
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-settings.php:643
+msgid "Maybe later"
+msgstr ""
+
+#: inc/admin/class-thwwc-admin-settings.php:647
+msgid "Nah, Never"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:58
+#: inc/admin/class-thwwc-vue-api-compare.php:59
+#: inc/admin/class-thwwc-vue-api-wishlist.php:66
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:58
+msgid "Set the general settings for the comparison list here, including the comparison page."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:58
+#: inc/admin/class-thwwc-vue-api-wishlist.php:66
+msgid "VIEW GENERAL SETTINGS"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:61
+#: inc/admin/class-thwwc-vue-api-compare.php:62
+msgid "Table Settings"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:61
+msgid "Set Table settings to the comparison list."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:61
+msgid "VIEW TABLE SETTINGS"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:124
+msgid "Show compare button on the shop page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:125
+msgid "Position on shop page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:125
+#: inc/admin/class-thwwc-vue-api-compare.php:134
+#: inc/admin/class-thwwc-vue-api-wishlist.php:178
+#: inc/admin/class-thwwc-vue-api-wishlist.php:246
+msgid "After \"Add to Cart\" Button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:125
+#: inc/admin/class-thwwc-vue-api-compare.php:134
+#: inc/admin/class-thwwc-vue-api-wishlist.php:178
+#: inc/admin/class-thwwc-vue-api-wishlist.php:246
+msgid "Before \"Add to cart\" Button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:125
+#: inc/admin/class-thwwc-vue-api-compare.php:134
+#: inc/admin/class-thwwc-vue-api-wishlist.php:178
+#: inc/admin/class-thwwc-vue-api-wishlist.php:246
+msgid "Above Thumbnail"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:126
+#: inc/admin/class-thwwc-vue-api-compare.php:135
+#: inc/admin/class-thwwc-vue-api-wishlist.php:179
+#: inc/admin/class-thwwc-vue-api-wishlist.php:247
+msgid "Thumbnail position"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:126
+#: inc/admin/class-thwwc-vue-api-wishlist.php:179
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:127
+#: inc/admin/class-thwwc-vue-api-wishlist.php:177
+#: inc/admin/class-thwwc-vue-api-wishlist.php:245
+msgid "Link / Button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:127
+#: inc/admin/class-thwwc-vue-api-wishlist.php:177
+#: inc/admin/class-thwwc-vue-api-wishlist.php:245
+msgid "Button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:127
+#: inc/admin/class-thwwc-vue-api-wishlist.php:177
+#: inc/admin/class-thwwc-vue-api-wishlist.php:245
+msgid "Link"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:128
+msgid "Link / Button text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:129
+msgid "Added text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:130
+msgid "Choose compare icon"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:130
+msgid "Compare"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:130
+#: inc/admin/class-thwwc-vue-api-wishlist.php:180
+#: inc/admin/class-thwwc-vue-api-wishlist.php:248
+#: inc/admin/class-thwwc-vue-api-wishlist.php:345
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:131
+msgid "Upload compare icon"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:132
+msgid "Choose compare icon color"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:132
+#: inc/admin/class-thwwc-vue-api-wishlist.php:182
+#: inc/admin/class-thwwc-vue-api-wishlist.php:250
+#: inc/admin/class-thwwc-vue-api-wishlist.php:347
+#: inc/admin/class-thwwc-vue-api-wishlist.php:384
+msgid "Default"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:132
+#: inc/admin/class-thwwc-vue-api-wishlist.php:182
+#: inc/admin/class-thwwc-vue-api-wishlist.php:250
+#: inc/admin/class-thwwc-vue-api-wishlist.php:347
+#: inc/admin/class-thwwc-vue-api-wishlist.php:384
+msgid "Black"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:132
+#: inc/admin/class-thwwc-vue-api-wishlist.php:182
+#: inc/admin/class-thwwc-vue-api-wishlist.php:250
+#: inc/admin/class-thwwc-vue-api-wishlist.php:347
+#: inc/admin/class-thwwc-vue-api-wishlist.php:384
+msgid "White"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:133
+msgid "Show button in single product page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:134
+msgid "Position on single product page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:135
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:136
+msgid "Open popup on click of compare button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:137
+msgid "Button action of added button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:137
+msgid "Open popup"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:137
+msgid "Open page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:179
+msgid "Choose page to display the comparison list"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:180
+msgid "Display title for lightbox"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:181
+msgid "Hide attributes with the same value"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:182
+msgid "Display a switch to show/hide the attributes with the same value"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:183
+msgid "Display a remove button to remove products from the comparison list"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:202
+#: inc/admin/class-thwwc-vue-api-compare.php:219
+msgid "Image"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:203
+#: inc/admin/class-thwwc-vue-api-compare.php:227
+msgid "Title"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:204
+#: inc/admin/class-thwwc-vue-api-compare.php:223
+msgid "Price"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:205
+#: inc/admin/class-thwwc-vue-api-compare.php:231
+msgid "Description"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:206
+#: inc/admin/class-thwwc-vue-api-compare.php:235
+#: inc/admin/class-thwwc-vue-api-wishlist.php:296
+#: inc/thpublic/class-thwwc-public-compare.php:430
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:96
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:105
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:363
+msgid "Add to cart"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:207
+#: inc/admin/class-thwwc-vue-api-compare.php:239
+msgid "Sku"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:208
+#: inc/admin/class-thwwc-vue-api-compare.php:243
+msgid "Availability"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:209
+#: inc/admin/class-thwwc-vue-api-compare.php:247
+msgid "Weight"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-compare.php:210
+#: inc/admin/class-thwwc-vue-api-compare.php:251
+msgid "Dimensions"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:66
+#: templates/thwwac-compare.php:5
+#: templates/thwwac-wishlist.php:5
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:66
+msgid "Set the general settings for the wishlist here, including the wishlist page."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:67
+#: inc/admin/class-thwwc-vue-api-wishlist.php:68
+msgid "Shop Page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:67
+msgid "Set the Shop page settings for the wishlist button. Also, choose options including the wishlist icon and the display position."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:67
+msgid "VIEW SHOP PAGE SETTINGS"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:69
+#: inc/admin/class-thwwc-vue-api-wishlist.php:70
+msgid "Product Page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:69
+msgid "Set Product page settings for the wishlist here."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:69
+msgid "VIEW PRODUCT PAGE SETTINGS"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:71
+#: inc/admin/class-thwwc-vue-api-wishlist.php:72
+msgid "Wishlist Page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:71
+msgid "Pick all the settings for wishlist page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:71
+msgid "VIEW WISHLIST PAGE SETTINGS"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:73
+#: inc/admin/class-thwwc-vue-api-wishlist.php:74
+msgid "Wishlist Counter"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:73
+msgid "Configure the display of the wishlist item count along with Menu."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:73
+msgid "VIEW WISHLIST COUNTER SETTINGS"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:75
+#: inc/admin/class-thwwc-vue-api-wishlist.php:76
+msgid "Social Media Sharing"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:75
+msgid "Set the social media sharing options for the wishlist here."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:75
+msgid "VIEW SOCIAL MEDIA SHARING SETTINGS"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:111
+msgid "Choose wishlist page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:112
+msgid "Enable ajax loading"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:113
+msgid "Remove from wishlist on second click"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:114
+msgid "Allow wishlist option for logged-in users only"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:115
+msgid "Redirect to the login page on click of wishlist icon while not logged in"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:116
+msgid "Show wishlist link on my account page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:117
+msgid "Remove the product from wishlist upon adding to cart"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:118
+msgid "Redirect to the checkout page from wishlist upon adding product to cart"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:119
+msgid "Show alert in popup upon adding product to wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:120
+msgid "Product successfully added to wishlist display text."
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:121
+msgid "Redirect to wishlist page upon adding product to wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:122
+msgid "View wishlist button text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:123
+msgid "Custom Css"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:176
+msgid "Show wishlist button on the shop page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:178
+#: inc/admin/class-thwwc-vue-api-wishlist.php:246
+msgid "Choose the position of the wishlist button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:178
+#: inc/admin/class-thwwc-vue-api-wishlist.php:246
+msgid "Custom position with code"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:178
+msgid "Add this shortcode [thwwac_addtowishlist_loop] anywhere on shop page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:179
+#: inc/admin/class-thwwc-vue-api-wishlist.php:247
+msgid "Top Left"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:179
+msgid "Top Right"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:180
+#: inc/admin/class-thwwc-vue-api-wishlist.php:248
+msgid "Choose wishlist icon"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:180
+#: inc/admin/class-thwwc-vue-api-wishlist.php:248
+#: inc/admin/class-thwwc-vue-api-wishlist.php:345
+msgid "Heart"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:180
+#: inc/admin/class-thwwc-vue-api-wishlist.php:248
+#: inc/admin/class-thwwc-vue-api-wishlist.php:345
+msgid "Bookmark"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:181
+#: inc/admin/class-thwwc-vue-api-wishlist.php:249
+msgid "Upload wishlist icon"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:182
+#: inc/admin/class-thwwc-vue-api-wishlist.php:250
+msgid "Choose wishlist icon color"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:183
+#: inc/admin/class-thwwc-vue-api-wishlist.php:251
+msgid "Wishlist Button/Link Style"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:183
+#: inc/admin/class-thwwc-vue-api-wishlist.php:251
+msgid "Use default theme style"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:188
+#: inc/admin/class-thwwc-vue-api-wishlist.php:256
+msgid "Font Size (in pixels)"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:188
+#: inc/admin/class-thwwc-vue-api-wishlist.php:256
+msgid "example: 20px"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:189
+#: inc/admin/class-thwwc-vue-api-wishlist.php:258
+msgid "Enable display of preloader while adding product to wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:190
+#: inc/admin/class-thwwc-vue-api-wishlist.php:259
+msgid "Display button text along with wishlist button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:191
+#: inc/admin/class-thwwc-vue-api-wishlist.php:260
+msgid "Wishlist button text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:191
+msgid "Add to wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:192
+#: inc/admin/class-thwwc-vue-api-wishlist.php:261
+msgid "Display product already added to wishlist message"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:193
+#: inc/admin/class-thwwc-vue-api-wishlist.php:262
+msgid "Product already added to wishlist message"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:193
+#: inc/admin/class-thwwc-vue-api-wishlist.php:262
+msgid "Already in wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:244
+msgid "Show wishlist button on the product page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:246
+msgid "Add this shortcode [thwwac_addtowishlist] anywhere on product page"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:295
+msgid "Display add to cart button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:296
+msgid "Add to cart text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:297
+msgid "Display unit price"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:298
+msgid "Display stock status"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:299
+msgid "Display date of addition"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:300
+msgid "Choose display position of Icon to remove product from wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:301
+msgid "Display checkboxes for multiselecting products"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:302
+msgid "Display actions button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:303
+msgid "Display add selected to cart button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:304
+msgid "Add selected to cart button text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:304
+msgid "Add Selected to Cart"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:305
+msgid "Display add all products to cart button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:306
+msgid "Add all products to cart button text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:306
+msgid "Add All to Cart"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:307
+msgid "Grid / List view"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:308
+msgid "Show Wishlist filter"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:345
+msgid "Choose wishlist counter icon"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:345
+msgid "Select"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:346
+msgid "Upload icon for wishlist counter"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:347
+msgid "Wishlist counter icon color"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:348
+msgid "Enable display of wishlist counter text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:349
+msgid "Wishlist counter text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:350
+msgid "Choose menu to display wishlist counter"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:351
+msgid "Counter position (Menu item order)"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:352
+msgid "Display number of products in the counter"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:353
+msgid "Hide zero value"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:376
+msgid "Enable social sharing for wishlist"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:377
+msgid "Display Facebook button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:378
+msgid "Display Twitter button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:379
+msgid "Display Pinterest button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:380
+msgid "Display WhatsApp button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:381
+msgid "Display Email button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:382
+msgid "Display Copy to clipboard button"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:383
+msgid "Share on text"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:383
+msgid "Share on"
+msgstr ""
+
+#: inc/admin/class-thwwc-vue-api-wishlist.php:384
+msgid "Social icons color"
+msgstr ""
+
+#: inc/base/class-thwwc-enqueue.php:89
+msgid "There seems to be an error with this save."
+msgstr ""
+
+#: inc/base/class-thwwc-enqueue.php:90
+msgid "Are you sure? all your changes will be deleted."
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:73
+msgid "Quick Feedback"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:78
+#: inc/base/class-thwwc-settings-links.php:109
+msgid "Get Support"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:82
+msgid "If you have a moment, please let us know why you want to deactivate this plugin"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:101
+msgid "This form is only for getting your valuable feedback. We do not collect your personal data. To know more read our "
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:101
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:105
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:111
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:112
+msgid "Cancel"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:333
+msgid "Deactivate and "
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:335
+msgid "leave a review"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:339
+msgid "Upgraded"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:410
+msgid "A specific feature is missing"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:412
+msgid "Type in the feature"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:417
+msgid "Found an error in the plugin/ Plugin was not working"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:419
+msgid "Specify the issue"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:424
+msgid "It was hard to use"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:426
+msgid "How can we improve your experience?"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:431
+msgid "I found a better Plugin"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:433
+#: inc/base/class-thwwc-settings-links.php:447
+msgid "Could you please mention the plugin?"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:445
+msgid "It’s a temporary deactivation - I’m troubleshooting an issue"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:452
+msgid "Not mentioned here"
+msgstr ""
+
+#: inc/base/class-thwwc-settings-links.php:454
+msgid "Kindly tell us your reason, so that we can improve"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-compare.php:151
+#: templates/thwwac-comparepopup.php:27
+msgid " Show only differences"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-compare.php:387
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:197
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:408
+msgid "In stock"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-compare.php:387
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:197
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:408
+msgid "Out of stock"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-compare.php:389
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:199
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:410
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-compare.php:557
+msgid "No products added to the comparison table."
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-compare.php:557
+msgid "Add products"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:100
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:367
+msgid "Add selected to cart"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:146
+msgid "Product Details"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:202
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:413
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:222
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:433
+msgid "Actions"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:222
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:433
+msgid "Remove"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:222
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:433
+msgid "Apply Action"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:457
+msgid "No Matches Found."
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:614
+msgid "Your wishlist is empty"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:614
+msgid "Add items to your wishlist now!"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:614
+msgid "Return to shop"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:685
+msgid "You cannot add that amount to the cart — we have %s in stock and you already have %s in your cart. <a href=\"%s\" class=\"button wc-forward\">View cart</a>."
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:690
+msgid "<a href=\"%s\" class=\"button wc-forward\">View cart</a>%s has been added to your cart. "
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:697
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:812
+msgid "%s cannot be added to cart because some requirements are not met."
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:807
+msgid "You cannot add that amount to the cart for %s — we have %s in stock and you already have %s in your cart. <a href=\"%s\" class=\"button wc-forward\">View cart</a>"
+msgstr ""
+
+#: inc/thpublic/class-thwwc-public-wishlist-page.php:816
+msgid "You cannot add %s to the cart because the product is out of stock."
+msgstr ""
+
+#: templates/thwwac-addtowishlist-single.php:124
+#: templates/thwwac-addtowishlist-single.php:145
+msgid "Close"
+msgstr ""
+
+#: templates/thwwac-addtowishlist-single.php:137
+#: templates/thwwac-addtowishlist.php:116
+msgid "Please login to continue"
+msgstr ""
+
+#: templates/thwwac-addtowishlist-single.php:144
+#: templates/thwwac-addtowishlist.php:122
+msgid "Click here to login"
+msgstr ""
+
+#: templates/thwwac-compare.php:41
+#: templates/thwwac-compare.php:67
+#: templates/thwwac-wishlist.php:39
+#: templates/thwwac-wishlist.php:57
+#: templates/thwwac-wishlist.php:75
+#: templates/thwwac-wishlist.php:93
+#: templates/thwwac-wishlist.php:111
+#: templates/thwwac-wishlist.php:129
+msgid "Save"
+msgstr ""
+
+#: templates/thwwac-compare.php:42
+#: templates/thwwac-compare.php:68
+#: templates/thwwac-wishlist.php:40
+#: templates/thwwac-wishlist.php:58
+#: templates/thwwac-wishlist.php:76
+#: templates/thwwac-wishlist.php:94
+#: templates/thwwac-wishlist.php:112
+#: templates/thwwac-wishlist.php:130
+msgid "Reset to default"
+msgstr ""
+
+#: templates/thwwac-compare.php:60
+msgid "Fields to be displayed (Drag & drop the fields to rearrange)"
+msgstr ""
+
+#: templates/thwwac-compare.php:81
+#: templates/thwwac-wishlist.php:142
+msgid "Saved successfully"
+msgstr ""
+
+#: templates/thwwac-compare.php:85
+#: templates/thwwac-wishlist.php:146
+msgid "Settings successfully reset"
+msgstr ""
+
+#: templates/thwwac-compare.php:88
+#: templates/thwwac-wishlist.php:149
+msgid "Your changes were not saved due to an error (or you made none!)"
+msgstr ""
